@@ -4,7 +4,7 @@
 * After execution script uses raw data from directory "course_project"
 * Script generates .txt file named "averages.txt" in root directory
 * Script contains a lot of comments describing how it works
-* For more informations oper this script in R Studio or other editor/enviroment
+* For more information open this script in R Studio or other editor/enviroment
 
 ## structure of repo
 * README.md
